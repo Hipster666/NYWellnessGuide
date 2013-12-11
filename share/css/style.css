@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background:#C6E2FF;}
+
+
+.social-media {
+	min-height:180px !important;
+	text-align:center !important;
+	background:#fff !important;
+}
+
+.row {
+	background:#fff;
+}
+
+.panel.callout {
+	background:#fff;
+	border-width:0;
+	}
+	
+.cool-footer {
+	background:#479fe1 !important;
+	overflow:auto;
+}
+
+.cool-footer img a {
+	float:left;
+	display:inline !important;
+}
+
+.cool-footer img {float:left !important;}
+
+.footer-row {background:#479fe1 !important; padding:20px 0 2px 0;}
+
+/* twitter bottom */
+
